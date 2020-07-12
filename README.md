@@ -23,4 +23,4 @@ FIXME
 
 # 出典
 - 国土地理院データの出典は国土地理院。
-- `img/ise.jpg` は[メトロポリタン美術館](https://www.metmuseum.org/art/collection/search/54774?searchField=All&amp;sortBy=Relevance&amp;ft=tales+of+ise&amp;offset=0&amp;rpp=20&amp;pos=20）のパブリックドメインのデータ。
+- `img/ise.jpg` は[メトロポリタン美術館](https://www.metmuseum.org/art/collection/search/54774?searchField=All&amp;sortBy=Relevance&amp;ft=tales+of+ise&amp;offset=0&amp;rpp=20&amp;pos=20)のパブリックドメインのデータ。
