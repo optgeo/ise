@@ -1,3 +1,7 @@
+src/*.gz
+*.mbtiles
+*.geojsons
+
 # Logs
 logs
 *.log
