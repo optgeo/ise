@@ -1,4 +1,4 @@
-# ise: アダプト多言語化用ベクトルタイルデータ
+# ise: 多言語化用ベクトルタイルデータの里親
 ![](https://optgeo.github.io/ise/ise.jpg)
 
 # 対象
